@@ -7,6 +7,7 @@ Nome: Ergon Zamarian Lima  RA: 167776
 DATA: 18/05/2018
 SOFTWARE DE CONVOLUÇÃO
 
+
 -MODO DE UTILIZAÇÃO
 
 	Matrizes de convolução (Exemplos)
